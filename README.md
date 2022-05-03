@@ -1,1 +1,1 @@
-# calcular presupuestos hecho en react
+# calculador de presupuestos hecho en react
